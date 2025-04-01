@@ -15,11 +15,20 @@ Deep is a powerful Chrome extension designed to solve **Tesselator** and **Teles
 *
 
 ## Installation (Drag-and-Drop Method)
-1. Download the extension ZIP file and extract the file in it.
+1. Download the extension ZIP file and extract the files.
 2. Open **Google Chrome** and go to `chrome://extensions/`.
 3. Enable **Developer Mode** (toggle at the top-right corner).
-4. Drag and drop the extracted file into the Extensions page.
+4. Click **Load unpacked**, select the extracted folder.
 5. Done! The extension is now installed and ready to use.
+   
+
+
+https://github.com/user-attachments/assets/8c62cb63-ba7e-4b1e-8532-a79b9bb8cccb
+
+
+
+
+
 
 
 
